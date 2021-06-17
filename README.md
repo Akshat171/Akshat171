@@ -2,7 +2,7 @@
 - 👀 I’m interested in codind ,building Projects , learning New things 
 - 🌱 I’m currently learning DSA ,Web Development.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me -(Linkdin) Akshat Jangid
+- 📫 linkedin.com/in/akshat-jangid-524927200
 
 <!---
 Akshat171/Akshat171 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
