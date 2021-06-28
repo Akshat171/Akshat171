@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Akshat
-- 👀 I’m interested in codind ,building Projects , learning New things 
-- 🌱 I’m currently learning DSA ,Web Development.
+- 👋 Hi, I’m Akshat jangid
+- 👀 I’m interested in codind ,building Projects , learning and exploring New things .
+- 🌱 I’m currently learning DSA , Web Development.
 - 💞️ I’m looking to collaborate on ...
 - 📫 linkedin.com/in/akshat-jangid-524927200
 
