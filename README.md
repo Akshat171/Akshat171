@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Akshat jangid
 - 👀 I’m interested in codind ,building Projects , learning and exploring New things .
 - 🌱 I’m currently learning DSA ,Full stack  Web Development , Data science & ML.
-- 💞️ I’m looking to collaborate on ...
 - 📫 linkedin.com/in/akshat-jangid-524927200
 - building projects using :HTML/CSS3/javascript/React.js/JQuery/Bootstrap
 - Learning: Node.js/MongoDB/Rest APIs/Express.js
