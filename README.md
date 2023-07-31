@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **React,Typescript,Express,NodeJs,MondoDB**
 
-- 👨‍💻 All of my projects are available at [https://akshatjangir.netlify.app/](https://akshatjangir.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://akshatjangir.com/](https://dh2vr7-3000.csb.app/)
 
 - 📝 I regularly write articles on [https://teck-stack-blogs.netlify.app/](https://teck-stack-blogs.netlify.app/)
 
