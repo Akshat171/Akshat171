@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akshat</h1>
-<h3 align="center">A passionate Mern Stack developer from India</h3>
+<h3 align="center">A passionate MERN Stack developer from India</h3>
 <img align= "right" alt ="coding" width = "400"  src ="https://avatars.githubusercontent.com/u/81281246?s=400&u=932dfe3b8decf150eb54188ab09d512e8569d60a&v=4">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshat171&label=Profile%20views&color=0e75b6&style=flat" alt="akshat171" /> </p>
