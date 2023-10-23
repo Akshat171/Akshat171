@@ -14,8 +14,6 @@
 
 - 👨‍💻 All of my projects are available at [https://akshatjangir.com/](https://akshat-jangir.vercel.app/)
 
-- 📝 I regularly write articles on [https://teck-stack-blogs.netlify.app/](https://teck-stack-blogs.netlify.app/)
-
 - 💬 Ask me about **react, vue, nextjs**
 
 - 📫 How to reach me **akshatjangir1710@gmail.com**
